@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-metafictional-spiritual-seeking",
+  "title": "The Pilgrimage of Doubtful Threads",
+  "tagline": "A young seeker and a grizzled storyteller navigate a medieval world where faith, narrative, and reality are woven into a treacherous, unraveling tapestry.",
+  "target_words": 76181,
+  "actual_words": 76181,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Nature of Narrative and Reality",
+    "Spiritual Seeking in a Material World",
+    "The Corruption of Faith and Institutions",
+    "The Pilgrim's Journey as Metafiction"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Map That Doubted Its Maker",
+      "words": 6925
+    },
+    {
+      "ch": 2,
+      "title": "A Blasphemy of Corporeality",
+      "words": 6925
+    },
+    {
+      "ch": 3,
+      "title": "The Summons of Contagious Poverty",
+      "words": 6925
+    },
+    {
+      "ch": 4,
+      "title": "The Verdict in Littera Textualis",
+      "words": 6925
+    },
+    {
+      "ch": 5,
+      "title": "The River's Black Tongue",
+      "words": 6925
+    },
+    {
+      "ch": 6,
+      "title": "Eyes the Colour of Winter",
+      "words": 6925
+    },
+    {
+      "ch": 7,
+      "title": "A Pilgrimage of Sparks",
+      "words": 6925
+    },
+    {
+      "ch": 8,
+      "title": "The City That Chews on Bones",
+      "words": 6925
+    },
+    {
+      "ch": 9,
+      "title": "The Sound of a Bone Breaking",
+      "words": 6925
+    },
+    {
+      "ch": 10,
+      "title": "The Mockery of Enduring Mud",
+      "words": 6925
+    },
+    {
+      "ch": 11,
+      "title": "The Serpent's Hollow Heartbeat",
+      "words": 6925
+    }
+  ]
+}
